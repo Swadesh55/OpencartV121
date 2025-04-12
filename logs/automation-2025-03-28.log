@@ -1,0 +1,310 @@
+10:25:43.176 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+10:25:43.316 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory.createDocumentPart(POIXMLFactory.java:65)oggger - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+10:25:43.344 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:25:43.363 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:25:43.367 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+10:25:43.408 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory.createDocumentPart(POIXMLFactory.java:65)oggger - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+10:25:43.456 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:25:43.459 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:25:43.462 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+10:25:43.495 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory.createDocumentPart(POIXMLFactory.java:65)oggger - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+10:25:43.534 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:25:43.538 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:25:43.541 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+10:25:43.614 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory.createDocumentPart(POIXMLFactory.java:65)oggger - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+10:25:43.693 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:25:43.698 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:25:43.702 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+10:25:43.745 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory.createDocumentPart(POIXMLFactory.java:65)oggger - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+10:25:43.793 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:25:43.819 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:25:43.823 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+10:25:43.873 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory.createDocumentPart(POIXMLFactory.java:65)oggger - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+10:25:43.932 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:25:43.938 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:25:43.945 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+10:25:44.012 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory.createDocumentPart(POIXMLFactory.java:65)oggger - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+10:25:44.097 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:25:44.100 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:25:44.104 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+10:25:44.137 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory.createDocumentPart(POIXMLFactory.java:65)oggger - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+10:25:44.193 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:25:44.197 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:25:44.231 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+10:25:44.264 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory.createDocumentPart(POIXMLFactory.java:65)oggger - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+10:25:44.320 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:25:44.324 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:25:44.328 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+10:25:44.369 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory.createDocumentPart(POIXMLFactory.java:65)oggger - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+10:25:44.414 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:25:44.418 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:25:44.421 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+10:25:44.450 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory.createDocumentPart(POIXMLFactory.java:65)oggger - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+10:25:44.486 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:25:44.489 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:25:44.493 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+10:25:44.525 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory.createDocumentPart(POIXMLFactory.java:65)oggger - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+10:25:44.561 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:25:44.564 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:25:44.568 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+10:25:44.596 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory.createDocumentPart(POIXMLFactory.java:65)oggger - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+10:25:44.638 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:25:44.641 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:25:44.644 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+10:25:44.669 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory.createDocumentPart(POIXMLFactory.java:65)oggger - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+10:25:44.752 [main] INFO  testCases.TC_003_DDT.veryfy_loginDDT(TC_003_DDT.java:17)oggger - ****Strating TC_003_DDT***
+10:25:48.531 [main] INFO  testCases.TC_003_DDT.veryfy_loginDDT(TC_003_DDT.java:63)oggger - ****Finshed TC_003_DDT***
+10:25:48.567 [main] INFO  testCases.TC_003_DDT.veryfy_loginDDT(TC_003_DDT.java:17)oggger - ****Strating TC_003_DDT***
+10:26:01.726 [main] INFO  testCases.TC_003_DDT.veryfy_loginDDT(TC_003_DDT.java:63)oggger - ****Finshed TC_003_DDT***
+10:26:01.737 [main] INFO  testCases.TC_003_DDT.veryfy_loginDDT(TC_003_DDT.java:17)oggger - ****Strating TC_003_DDT***
+10:26:13.930 [main] INFO  testCases.TC_003_DDT.veryfy_loginDDT(TC_003_DDT.java:63)oggger - ****Finshed TC_003_DDT***
+10:26:13.948 [main] INFO  testCases.TC_003_DDT.veryfy_loginDDT(TC_003_DDT.java:17)oggger - ****Strating TC_003_DDT***
+10:26:25.774 [main] INFO  testCases.TC_003_DDT.veryfy_loginDDT(TC_003_DDT.java:63)oggger - ****Finshed TC_003_DDT***
+10:26:25.794 [main] INFO  testCases.TC_003_DDT.veryfy_loginDDT(TC_003_DDT.java:17)oggger - ****Strating TC_003_DDT***
+10:26:37.532 [main] INFO  testCases.TC_003_DDT.veryfy_loginDDT(TC_003_DDT.java:17)oggger - ****Strating TC_003_DDT***
+10:26:49.259 [main] INFO  testCases.TC_003_DDT.veryfy_loginDDT(TC_003_DDT.java:63)oggger - ****Finshed TC_003_DDT***
+13:58:39.382 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "E:\Eclips Java Workspace\OpencartV121\grouping.xml"
+13:58:40.485 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  E:\Eclips Java Workspace\OpencartV121\grouping.xml
+
+13:59:34.611 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:17)oggger - *****Starting TC001_AccountRegistrationTest
+13:59:35.363 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:24)oggger - Clicked on MyAccount Link
+13:59:36.344 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:26)oggger - Clicked on Register Link
+13:59:36.475 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:32)oggger - Providing customer details...
+13:59:39.464 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:47)oggger - Validating expected massege....
+13:59:39.751 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:60)oggger - *****Finished TC001_AccountRegistrationTest
+13:59:54.969 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:18)oggger - ****Starting TC_LoginTest*****
+13:59:58.046 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:47)oggger - *****Finished Tc_002_lOGINtEST*****
+14:01:24.513 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "E:\Eclips Java Workspace\OpencartV121\grouping.xml"
+14:01:25.573 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  E:\Eclips Java Workspace\OpencartV121\grouping.xml
+
+14:02:00.311 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "E:\Eclips Java Workspace\OpencartV121\grouping.xml"
+14:02:01.009 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  E:\Eclips Java Workspace\OpencartV121\grouping.xml
+
+14:02:43.763 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "E:\Eclips Java Workspace\OpencartV121\grouping.xml"
+14:02:44.475 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  E:\Eclips Java Workspace\OpencartV121\grouping.xml
+
+14:04:28.248 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "E:\Eclips Java Workspace\OpencartV121\grouping.xml"
+14:04:29.037 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  E:\Eclips Java Workspace\OpencartV121\grouping.xml
+
+14:04:57.499 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:17)oggger - *****Starting TC001_AccountRegistrationTest
+14:04:58.428 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:24)oggger - Clicked on MyAccount Link
+14:04:59.379 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:26)oggger - Clicked on Register Link
+14:04:59.414 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:32)oggger - Providing customer details...
+14:05:02.458 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:47)oggger - Validating expected massege....
+14:05:02.597 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:60)oggger - *****Finished TC001_AccountRegistrationTest
+14:05:14.187 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:18)oggger - ****Starting TC_LoginTest*****
+14:05:16.347 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:47)oggger - *****Finished Tc_002_lOGINtEST*****
+14:07:57.600 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "E:\Eclips Java Workspace\OpencartV121\grouping.xml"
+14:07:58.307 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  E:\Eclips Java Workspace\OpencartV121\grouping.xml
+
+14:08:21.209 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:18)oggger - ****Starting TC_LoginTest*****
+14:08:24.724 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:47)oggger - *****Finished Tc_002_lOGINtEST*****
+14:09:20.833 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "E:\Eclips Java Workspace\OpencartV121\grouping.xml"
+14:09:21.708 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  E:\Eclips Java Workspace\OpencartV121\grouping.xml
+
+14:09:37.972 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:18)oggger - ****Starting TC_LoginTest*****
+14:09:40.519 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:47)oggger - *****Finished Tc_002_lOGINtEST*****
+14:10:35.411 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "E:\Eclips Java Workspace\OpencartV121\grouping.xml"
+14:10:36.521 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  E:\Eclips Java Workspace\OpencartV121\grouping.xml
+
+14:11:03.057 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:17)oggger - *****Starting TC001_AccountRegistrationTest
+14:11:05.414 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:24)oggger - Clicked on MyAccount Link
+14:11:06.890 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:26)oggger - Clicked on Register Link
+14:11:07.028 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:32)oggger - Providing customer details...
+14:11:10.060 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:47)oggger - Validating expected massege....
+14:11:10.303 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:60)oggger - *****Finished TC001_AccountRegistrationTest
+14:47:41.993 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "E:\Eclips Java Workspace\OpencartV121\grouping.xml"
+14:47:43.103 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  E:\Eclips Java Workspace\OpencartV121\grouping.xml
+
+14:49:05.977 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:17)oggger - *****Starting TC001_AccountRegistrationTest
+14:49:08.682 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:24)oggger - Clicked on MyAccount Link
+14:49:16.071 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:26)oggger - Clicked on Register Link
+14:49:16.655 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:32)oggger - Providing customer details...
+14:49:21.680 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:47)oggger - Validating expected massege....
+14:49:22.098 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:60)oggger - *****Finished TC001_AccountRegistrationTest
+14:49:43.278 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:18)oggger - ****Starting TC_LoginTest*****
+14:49:47.329 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:47)oggger - *****Finished Tc_002_lOGINtEST*****
+14:08:49.125 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "E:\Eclips Java Workspace\OpencartV121\grouping.xml"
+14:08:49.987 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  E:\Eclips Java Workspace\OpencartV121\grouping.xml
+
+14:09:12.204 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:17)oggger - *****Starting TC001_AccountRegistrationTest
+14:09:12.769 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:24)oggger - Clicked on MyAccount Link
+14:09:13.671 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:26)oggger - Clicked on Register Link
+14:09:13.705 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:32)oggger - Providing customer details...
+14:09:17.350 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:47)oggger - Validating expected massege....
+14:09:17.643 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:60)oggger - *****Finished TC001_AccountRegistrationTest
+14:09:31.116 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:18)oggger - ****Starting TC_LoginTest*****
+14:10:33.443 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "E:\Eclips Java Workspace\OpencartV121\test-output\testng-failed.xml"
+14:10:35.098 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  E:\Eclips Java Workspace\OpencartV121\test-output\testng-failed.xml
+
+14:11:47.663 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:18)oggger - ****Starting TC_LoginTest*****
+14:27:50.007 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "E:\Eclips Java Workspace\OpencartV121\grouping.xml"
+14:27:51.021 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  E:\Eclips Java Workspace\OpencartV121\grouping.xml
+
+14:28:17.129 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:17)oggger - *****Starting TC001_AccountRegistrationTest
+14:28:17.680 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:24)oggger - Clicked on MyAccount Link
+14:28:18.817 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:26)oggger - Clicked on Register Link
+14:28:19.533 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:32)oggger - Providing customer details...
+14:28:23.106 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:47)oggger - Validating expected massege....
+14:28:23.290 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:60)oggger - *****Finished TC001_AccountRegistrationTest
+14:28:34.862 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:18)oggger - ****Starting TC_LoginTest*****
+14:28:37.146 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:47)oggger - *****Finished Tc_002_lOGINtEST*****
+14:32:34.720 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "E:\Eclips Java Workspace\OpencartV121\grouping.xml"
+14:32:35.998 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  E:\Eclips Java Workspace\OpencartV121\grouping.xml
+
+14:33:02.720 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:17)oggger - *****Starting TC001_AccountRegistrationTest
+14:33:03.663 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:24)oggger - Clicked on MyAccount Link
+14:33:04.450 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:26)oggger - Clicked on Register Link
+14:33:04.475 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:32)oggger - Providing customer details...
+14:33:07.463 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:47)oggger - Validating expected massege....
+14:33:07.662 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:60)oggger - *****Finished TC001_AccountRegistrationTest
+14:33:19.451 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:18)oggger - ****Starting TC_LoginTest*****
+14:43:47.467 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "E:\Eclips Java Workspace\OpencartV121\test-output\testng-failed.xml"
+14:43:48.067 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  E:\Eclips Java Workspace\OpencartV121\test-output\testng-failed.xml
+
+14:44:28.427 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:18)oggger - ****Starting TC_LoginTest*****
+14:44:36.407 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:47)oggger - *****Finished Tc_002_lOGINtEST*****
+14:51:23.248 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "E:\Eclips Java Workspace\OpencartV121\master.xml"
+14:51:23.958 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  E:\Eclips Java Workspace\OpencartV121\master.xml
+
+14:52:02.785 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:52:02.796 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:52:02.803 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+14:52:06.879 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory.createDocumentPart(POIXMLFactory.java:65)oggger - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+14:52:07.512 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:52:07.521 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:52:07.525 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+14:52:07.559 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory.createDocumentPart(POIXMLFactory.java:65)oggger - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+14:52:07.600 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:52:07.603 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:52:07.607 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+14:52:07.648 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory.createDocumentPart(POIXMLFactory.java:65)oggger - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+14:52:07.719 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:52:07.724 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:52:07.730 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+14:52:07.783 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory.createDocumentPart(POIXMLFactory.java:65)oggger - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+14:52:07.834 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:52:07.837 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:52:07.845 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+14:52:07.871 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory.createDocumentPart(POIXMLFactory.java:65)oggger - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+14:52:07.907 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:52:07.910 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:52:07.914 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+14:52:07.938 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory.createDocumentPart(POIXMLFactory.java:65)oggger - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+14:52:07.967 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:52:07.970 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:52:07.972 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+14:52:08.000 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory.createDocumentPart(POIXMLFactory.java:65)oggger - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+14:52:08.036 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:52:08.038 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:52:08.040 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+14:52:08.061 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory.createDocumentPart(POIXMLFactory.java:65)oggger - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+14:52:08.089 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:52:08.092 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:52:08.094 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+14:52:08.127 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory.createDocumentPart(POIXMLFactory.java:65)oggger - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+14:52:08.157 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:52:08.159 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:52:08.161 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+14:52:08.187 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory.createDocumentPart(POIXMLFactory.java:65)oggger - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+14:52:08.212 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:52:08.214 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:52:08.217 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+14:52:08.236 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory.createDocumentPart(POIXMLFactory.java:65)oggger - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+14:52:08.261 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:52:08.263 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:52:08.266 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+14:52:08.282 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory.createDocumentPart(POIXMLFactory.java:65)oggger - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+14:52:08.303 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:52:08.305 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:52:08.307 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+14:52:08.327 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory.createDocumentPart(POIXMLFactory.java:65)oggger - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+14:52:08.354 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:52:08.357 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:52:08.360 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+14:52:08.375 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory.createDocumentPart(POIXMLFactory.java:65)oggger - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+14:52:08.399 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:52:08.402 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:52:08.404 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+14:52:08.426 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory.createDocumentPart(POIXMLFactory.java:65)oggger - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+14:52:08.453 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:52:08.456 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:52:08.459 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+14:52:08.483 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory.createDocumentPart(POIXMLFactory.java:65)oggger - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+14:52:08.533 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:52:08.535 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:52:08.538 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+14:52:08.562 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory.createDocumentPart(POIXMLFactory.java:65)oggger - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+14:52:08.589 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:52:08.592 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:52:08.595 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+14:52:08.619 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory.createDocumentPart(POIXMLFactory.java:65)oggger - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+14:52:08.645 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:52:08.648 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:52:08.650 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+14:52:08.671 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory.createDocumentPart(POIXMLFactory.java:65)oggger - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+14:52:08.700 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:52:08.703 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:52:08.705 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+14:52:08.733 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory.createDocumentPart(POIXMLFactory.java:65)oggger - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+14:52:08.888 [main] INFO  testCases.TC_003_DDT.veryfy_loginDDT(TC_003_DDT.java:17)oggger - ****Strating TC_003_DDT***
+14:52:15.979 [main] INFO  testCases.TC_003_DDT.veryfy_loginDDT(TC_003_DDT.java:63)oggger - ****Finshed TC_003_DDT***
+14:52:16.251 [main] INFO  testCases.TC_003_DDT.veryfy_loginDDT(TC_003_DDT.java:17)oggger - ****Strating TC_003_DDT***
+14:52:28.336 [main] INFO  testCases.TC_003_DDT.veryfy_loginDDT(TC_003_DDT.java:63)oggger - ****Finshed TC_003_DDT***
+14:52:28.364 [main] INFO  testCases.TC_003_DDT.veryfy_loginDDT(TC_003_DDT.java:17)oggger - ****Strating TC_003_DDT***
+14:52:41.253 [main] INFO  testCases.TC_003_DDT.veryfy_loginDDT(TC_003_DDT.java:63)oggger - ****Finshed TC_003_DDT***
+14:52:41.274 [main] INFO  testCases.TC_003_DDT.veryfy_loginDDT(TC_003_DDT.java:17)oggger - ****Strating TC_003_DDT***
+14:52:53.592 [main] INFO  testCases.TC_003_DDT.veryfy_loginDDT(TC_003_DDT.java:63)oggger - ****Finshed TC_003_DDT***
+14:52:53.622 [main] INFO  testCases.TC_003_DDT.veryfy_loginDDT(TC_003_DDT.java:17)oggger - ****Strating TC_003_DDT***
+14:53:05.374 [main] INFO  testCases.TC_003_DDT.veryfy_loginDDT(TC_003_DDT.java:63)oggger - ****Finshed TC_003_DDT***
+14:53:05.404 [main] INFO  testCases.TC_003_DDT.veryfy_loginDDT(TC_003_DDT.java:17)oggger - ****Strating TC_003_DDT***
+14:53:17.243 [main] INFO  testCases.TC_003_DDT.veryfy_loginDDT(TC_003_DDT.java:63)oggger - ****Finshed TC_003_DDT***
+14:55:35.065 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "E:\Eclips Java Workspace\OpencartV121\grouping.xml"
+14:55:35.852 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  E:\Eclips Java Workspace\OpencartV121\grouping.xml
+
+14:56:09.367 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:17)oggger - *****Starting TC001_AccountRegistrationTest
+14:56:10.461 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:24)oggger - Clicked on MyAccount Link
+14:56:11.347 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:26)oggger - Clicked on Register Link
+14:56:11.380 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:32)oggger - Providing customer details...
+14:56:14.955 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:47)oggger - Validating expected massege....
+14:56:27.192 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:18)oggger - ****Starting TC_LoginTest*****
+14:56:29.496 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:47)oggger - *****Finished Tc_002_lOGINtEST*****
+13:57:41.091 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "E:\Eclips Java Workspace\OpencartV121\grouping.xml"
+13:57:41.800 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  E:\Eclips Java Workspace\OpencartV121\grouping.xml
+
+13:57:54.649 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:17)oggger - *****Starting TC001_AccountRegistrationTest
+13:57:54.859 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:24)oggger - Clicked on MyAccount Link
+13:57:55.759 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:26)oggger - Clicked on Register Link
+13:57:55.764 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:32)oggger - Providing customer details...
+13:58:02.811 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:47)oggger - Validating expected massege....
+13:58:17.916 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:18)oggger - ****Starting TC_LoginTest*****
+14:03:07.371 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "E:\Eclips Java Workspace\OpencartV121\test-output\testng-failed.xml"
+14:03:08.125 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  E:\Eclips Java Workspace\OpencartV121\test-output\testng-failed.xml
+
+14:04:10.311 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:17)oggger - *****Starting TC001_AccountRegistrationTest
+14:04:15.832 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:24)oggger - Clicked on MyAccount Link
+14:04:16.963 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:26)oggger - Clicked on Register Link
+14:04:17.061 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:32)oggger - Providing customer details...
+14:04:20.688 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:47)oggger - Validating expected massege....
+14:04:20.869 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:60)oggger - *****Finished TC001_AccountRegistrationTest
+14:05:08.556 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:18)oggger - ****Starting TC_LoginTest*****
+14:05:17.043 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:47)oggger - *****Finished Tc_002_lOGINtEST*****
+13:39:44.956 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "E:\Eclips Java Workspace\OpencartV121\master.xml"
